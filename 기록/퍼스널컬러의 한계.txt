@@ -1,0 +1,14 @@
+어려운점 : 퍼스널컬러의 분류 기준을 공부해야 했고
+명도와 채도를 알기 위해 pscc 색 계체에 대해서
+공부 해야 했다. pscc를 이해 하기 위해
+rgb와 hsv의 상관관계, rgb를 hsv로 변환하는
+공식과 코드를 이해해야 했다
+rgb와 hsv변환 코드는 완벽히 이해는 못하고
+넘어갔다.
+
+rgb와 hsv변환 공식
+https://gammabeta.tistory.com/390
+rgb와 hsv변환 코드
+https://gist.github.com/mity/6034000
+퍼스널 컬러 유행 관련 기사
+https://www.hankyung.com/life/article/202207044794i
